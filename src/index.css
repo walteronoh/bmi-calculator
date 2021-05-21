@@ -1,0 +1,11 @@
+.bmi-wrap{
+  position:relative;
+  border:1px solid rgb(21, 183, 247);
+  text-align:center;
+  padding:10px;
+  margin:10px auto;
+  border-radius:10px;
+}
+.bmi-wrap form{
+  padding:10px;
+}
